@@ -123,8 +123,6 @@ $$[ Q1 - 1.5 \times IQR , Q3 + 1.5 \times IQR ]$$
 * **Fonction :** `remove_outliers_iqr()`
 
 
-[Image of boxplot showing outliers and interquartile range]
-
 
 ### Sélection des caractéristiques
 La **Permutation Importance** identifie les variables clés comme les coordonnées géographiques, la distance du trajet et le nombre de passagers.
